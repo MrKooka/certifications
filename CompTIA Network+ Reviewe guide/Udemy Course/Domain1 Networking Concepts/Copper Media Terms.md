@@ -26,3 +26,6 @@ Copper media plays a vital role in network infrastructure, providing versatile a
 **Coaxial cables**, like **RG-6**, are used for data and video transmission, while newer **Direct Attach Copper (DAC)** cables and **Twinaxial cables** support high-speed connections within data centers. Copper cabling can also be classified as **plenum** or **non-plenum**, depending on fire safety requirements.
 
 Understanding the capabilities and limitations of each cable type is essential for network design and troubleshooting, especially when choosing between copper and alternatives like fiber optic cables. Despite advancements, copper remains a robust and cost-efficient solution for many networking needs.
+
+**Tags**: #networkplus #Media   
+**Links**: Related: [[Copper Media]]
